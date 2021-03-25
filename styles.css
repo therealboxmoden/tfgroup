@@ -1,5 +1,7 @@
 body {
   background-color: #fdf6e3;
+  width: 50%;
+  margin: auto;
 }
 
 h1 {
@@ -7,12 +9,21 @@ h1 {
   text-align: center;
 }
 
+.subtitle {
+  text-align: center;
+}
+
 h2 {
   color: #93a1a1;
-  text-align: center;
+  text-align: left;
 }
 
 p {
   color: #657b83;
-  text-align: center;
+  text-align: left;
+}
+
+li {
+  color: #657b83;
+  text-align: left;
 }
