@@ -1,8 +1,12 @@
+body {
+  background-color: #fdf6e3;
+}
+
 .main {
   background-color: #fdf6e3;
   width: 50%;
   margin: auto;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 
 h1 {
@@ -55,7 +59,7 @@ li {
 .navbar a {
   float: left;
   display: block;
-  color: #fdf6e3;
+  color: #586e75;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
