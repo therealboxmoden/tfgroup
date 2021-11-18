@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  color: #93a1a1;
+  color: #2aa198;
   text-align: center;
   font-family: Raleway;
 }
@@ -73,4 +73,12 @@ li {
 
 .navbar a:hover {
   background: #eee8d5;
+}
+
+.blue {
+  color: #268bd2;
+}
+
+.violet {
+  color: #6c71c4;
 }
