@@ -43,7 +43,7 @@ p {
   line-height: 20px;
 }
 
-ul li {
+ol li {
   color: #657b83;
   text-align: left;
   font-family: Consolas, monaco, monospace; 
@@ -58,7 +58,7 @@ ul li {
   padding: 12px;
 }
 
-ul {
+ol {
   list-style-type: none;
   padding: 0;
   margin: 0;
