@@ -64,6 +64,16 @@ ol {
   margin: 0;
 }
 
+ul li {
+  color: #657b83;
+  text-align: left;
+  font-family: Consolas, monaco, monospace; 
+  font-size: 14px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 400; 
+}
+  
 .navbar {
   overflow: hidden;
   background-color: #eee8d5;
