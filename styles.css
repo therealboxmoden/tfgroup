@@ -1,7 +1,8 @@
-body {
+.main {
   background-color: #fdf6e3;
   width: 50%;
   margin: auto;
+  margin-top: 30px;
 }
 
 h1 {
@@ -62,8 +63,4 @@ li {
 
 .navbar a:hover {
   background: #eee8d5;
-}
-
-.main {
-  margin-top: 30px;
 }
