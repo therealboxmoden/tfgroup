@@ -102,3 +102,15 @@ ul li {
 .violet {
   color: #6c71c4;
 }
+
+.row {
+  display: flex;
+}
+
+.left {
+  flex: 25%;
+}
+
+.right {
+  flex: 75%;
+}
